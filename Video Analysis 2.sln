@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual C++ Express 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Video Analysis 2", "Video Analysis 2\Video Analysis 2.vcxproj", "{612E4DA8-EA0E-43CF-A8EE-3E2FA5FCD7AD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{612E4DA8-EA0E-43CF-A8EE-3E2FA5FCD7AD}.Debug|Win32.ActiveCfg = Debug|Win32
+		{612E4DA8-EA0E-43CF-A8EE-3E2FA5FCD7AD}.Debug|Win32.Build.0 = Debug|Win32
+		{612E4DA8-EA0E-43CF-A8EE-3E2FA5FCD7AD}.Release|Win32.ActiveCfg = Release|Win32
+		{612E4DA8-EA0E-43CF-A8EE-3E2FA5FCD7AD}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
